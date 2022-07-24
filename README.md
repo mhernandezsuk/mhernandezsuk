@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Martin Hernandez</h1>
-<h3 align="center">A passionate fullstack developer from Uruguay</h3>
+<h3 align="center">A passionate frontend developer from Uruguay</h3>
 
 - 🔭 I’m currently working on [Tiendamia](https://tiendamia.com)
 
@@ -8,6 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/martin-hernandez-suk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martin-hernandez-suk" height="30" width="40" /></a>
+<a href="https://es.stackoverflow.com/users/66366/mr-suk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="66366" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -16,3 +17,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhernandezsuk&show_icons=true&locale=en&layout=compact" alt="mhernandezsuk" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhernandezsuk&show_icons=true&locale=en" alt="mhernandezsuk" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhernandezsuk&" alt="mhernandezsuk" /></p>
