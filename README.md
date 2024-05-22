@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Martin Hernandez</h1>
 <h3 align="center">A passionate full stack developer from Uruguay</h3>
 
-- 🔭 I’m currently working on [Handy](https://handy.uy)
+- 🔭 I’m currently working on [Brinta](https://www.brinta.com)
 
 - 📫 How to reach me **hernandezsuk.martin@gmail.com**
 
